@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.birlasoft.application</groupId>
   <artifactId>SampleProject</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.2-SNAPSHOT</version>
   <name>SampleProject</name>
   <description>ExampleProject</description>
 </project>
